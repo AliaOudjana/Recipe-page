@@ -117,13 +117,13 @@ p, li, tr, .attribution a{
     text-align: center;
 }
 
-@media (max-width:780px) and (min-width:375px) {
+@media (max-width:780px) and (min-width:424px) {
     .main-container{
         width: 60%;
         padding: 1.5rem;
     }
 }
-@media (max-width:375px) {
+@media (max-width:424px) {
     .main-container{
         width: 100%;
         margin: 0;
@@ -138,4 +138,5 @@ p, li, tr, .attribution a{
     .main-container h1{
         font-size: 2rem;
     }
+
 }
